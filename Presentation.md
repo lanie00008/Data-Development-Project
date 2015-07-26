@@ -1,0 +1,39 @@
+========================================================
+
+# Storm Database Explorer
+
+========================================================
+## Between 1950 and 2011 severe
+## weather events caused at least
+
+
+- 14834 deaths
+- 139 445 injuries
+- $358 billion worth of damage
+
+
+========================================================
+# Now you can prepare yourself using Storm Database Explorer
+
+- state of the art user interface &
+- high quality data &&
+- fast and reliable &&&
+- 100% Open Source
+
+'--------------------------------------------------------------------
+- & If you really determined there is a chance you'll find worse.
+- && There is small chance it could be worse
+- &&& It works. Most of the time.
+
+========================================================
+
+# ... and it can generate cool plots
+
+
+========================================================
+## Are you interested?
+
+- enrol in the data science course
+
+
+========================================================
